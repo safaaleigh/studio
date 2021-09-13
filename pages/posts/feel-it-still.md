@@ -12,4 +12,4 @@ A collaboration with my friend AJ Odneal from a while back now. I was so excited
 
 [![](https://img.youtube.com/vi/QH_MLeuB5BU/maxresdefault.jpg)](https://www.youtube.com/watch?v=QH_MLeuB5BU)
 
-You can learn more about AJ Odneal and here music [here](https://ajodneal.com).
+You can learn more about AJ Odneal and her music [here](https://ajodneal.com).

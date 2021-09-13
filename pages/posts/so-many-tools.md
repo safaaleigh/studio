@@ -8,9 +8,9 @@ author: Safaa Hansen
 
 # So many tools ⚒
 
-I recently came across a really cool tool called [stackshare](https://stackshare.io) which let's you create lists of software and business tools. We recently wrapped up an internship program at the company I work for and one of the recurring requests from the participants was for us to share ahead of time more about the technology we use.
+I recently came across a really cool tool called [Stackshare](https://stackshare.io) which lets you create lists of software and business tools. We recently wrapped up an internship program at the company I work for and one of the recurring requests from the participants was for us to share ahead of time more about the technology we use.
 
-When I first started working in software I was with a consulting firm called [The BHW Group](http://thebhwgroup.com). Being a consulting firm, we would have the opportunity to frequently evaluate the tools we used and were able to evolve our stack with each new project based on our experience. Now having worked for a product startup called [sibi](https://sibipro.com) for the past few years, I've seen the impact choosing the right tools can have on the way a team works together.
+When I first started working in software I was with a consulting firm called [The BHW Group](http://thebhwgroup.com). Being a consulting firm, we would have the opportunity to frequently evaluate the tools we used and were able to evolve our stack with each new project based on our experience. Now having worked for a product startup called [Sibi](https://sibipro.com) for the past few years, I've seen the impact choosing the right tools can have on the way a team works together.
 
 I have compiled my working list of favorite tools [here](https://stackshare.io/safaaleigh/hearted) and [another list](https://stackshare.io/safaaleigh/everythingiveeverused) of all the tools I have ever used. A cool feature of stackshare is that you can post about your experiences with a tool, in particular why you decided to adopt or replace a given tool.
 

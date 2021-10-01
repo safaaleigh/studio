@@ -31,3 +31,7 @@ I feel like i've used a whole lot of versions of the project board, but Linear i
 ### [GitHub](http://github.com/)
 
 As time goes on GitHub has positioned itself to be more and more indispensable and full-featured. I love being able to tackle version control, continous integration and more within the same ecosystem.
+
+Sincrely,
+
+Safaa

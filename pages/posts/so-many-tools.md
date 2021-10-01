@@ -1,6 +1,6 @@
 ---
 title: So many tools
-date: 2021-09-12
+date: 2021-09-30
 description: My stackshare profile
 tag: web
 author: Safaa Hansen
